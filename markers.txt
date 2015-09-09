@@ -1,1 +1,18 @@
-lat	lon	title	description	icon	iconSize	iconOffset35.85718	139.65079	”G’H–[ƒ}ƒCƒNƒƒuƒ‹ƒƒŠ[	http://www.craft-beer.net/zkm.html	beer.png	"50,59"	"-21,-64"35.75912	139.72211	Beer{{F\ğ‚·‚¢‚¯‚ñƒuƒ‹ƒƒŠ[	http://plusplus.suiken.beer/	beer.png	"50,59"	"-21,-64"35.65046	139.70502	ƒXƒvƒŠƒ“ƒOƒoƒŒ[ƒuƒ‹ƒƒŠ[“Œ‹	http://www.springvalleybrewery.jp/tokyo/	beer.png	"50,59"	"-21,-64"35.70501	139.81355	Miyata Beer	http://miyatabeer.com/	beer.png	"50,59"	"-21,-64"35.62278	139.74747	T.Y. HARBOR BREWERY	https://www.tysons.jp/	beer.png	"50,59"	"-21,-64"35.6941	139.42313	ƒr[ƒ‹ƒtƒ@ƒNƒgƒŠ[ƒJƒ~ƒJƒ[	http://www.mumonan.jp/kamikaze/	beer.png	"50,59"	"-21,-64"35.71861	139.33296	‘½–€‚ÌŒbF•Ÿ¶‚Ìƒr[ƒ‹¬‰®	http://www.tamajiman.co.jp/koya.html	beer.png	"50,59"	"-21,-64"35.70848	139.63562	ˆ¢²’Jƒr[ƒ‹H–[	http://beerkobo.web.fc2.com/asagayaindex.html	beer.png	"50,59"	"-21,-64"35.70762	139.65135	‚‰~›”ğH–[	http://beerkobo.web.fc2.com/	beer.png	"50,59"	"-21,-64"35.60937	139.69591	BrewPUB PANGAEA	http://pangaea-senzoku.seesaa.net/	beer.png	"50,59"	"-21,-64"35.65046	139.70502	SVB TOKYO	http://www.springvalleybrewery.jp/tokyo/	beer.png	"50,59"	"-21,-64"35.68507	139.70311	Watering Hole	http://wateringhole.jp/	beer.png	"50,59"	"-21,-64"35.67162	139.77051	’nƒr[ƒ‹”ª”Ø‹âÀ“X	http://www.hachiban.net/contents/tenpo/ginza/	beer.png	"50,59"	"-21,-64"35.68691	139.77756	’nƒr[ƒ‹”ª”Ø“ú–{‹´“X	http://www.hachiban.net/contents/tenpo/nihonbashi/	beer.png	"50,59"	"-21,-64"35.4453	139.63248	BAY BREWING YOKOHAMA	http://baybrewing.jp/	beer.png	"50,59"	"-21,-64"35.61988	139.56297	ƒuƒ‹[ƒpƒuEƒ€[ƒ“ƒ‰ƒCƒg	http://www.craftbeer-moonlight.jp/	beer.png	"50,59"	"-21,-64"35.66055	138.57089	ƒAƒEƒgƒTƒCƒ_[ƒuƒ‹[ƒCƒ“ƒOFHops And Herbs	http://outsiderbrewing.jp/hopnherbs/top.htm	beer.png	"50,59"	"-21,-64"
+lat	lon	title	description	icon	iconSize	iconOffset
+35.85718	139.65079	éº¦é›‘ç©€å·¥æˆ¿ãƒã‚¤ã‚¯ãƒ­ãƒ–ãƒ«ãƒ¯ãƒªãƒ¼	http://www.craft-beer.net/zkm.html	beer.png	50,59	-21,-64
+35.75912	139.72211	Beerï¼‹ï¼‹ï¼šåæ¡ã™ã„ã‘ã‚“ãƒ–ãƒ«ãƒ¯ãƒªãƒ¼	http://plusplus.suiken.beer/	beer.png	50,59	-21,-64
+35.65046	139.70502	ã‚¹ãƒ—ãƒªãƒ³ã‚°ãƒãƒ¬ãƒ¼ãƒ–ãƒ«ãƒ¯ãƒªãƒ¼æ±äº¬	http://www.springvalleybrewery.jp/tokyo/	beer.png	50,59	-21,-64
+35.70501	139.81355	Miyata Beer	http://miyatabeer.com/	beer.png	50,59	-21,-64
+35.62278	139.74747	T.Y. HARBOR BREWERY	https://www.tysons.jp/	beer.png	50,59	-21,-64
+35.6941	139.42313	ãƒ“ãƒ¼ãƒ«ãƒ•ã‚¡ã‚¯ãƒˆãƒªãƒ¼ã‚«ãƒŸã‚«ã‚¼	http://www.mumonan.jp/kamikaze/	beer.png	50,59	-21,-64
+35.71861	139.33296	å¤šæ‘©ã®æµï¼šç¦ç”Ÿã®ãƒ“ãƒ¼ãƒ«å°å±‹	http://www.tamajiman.co.jp/koya.html	beer.png	50,59	-21,-64
+35.70848	139.63562	é˜¿ä½è°·ãƒ“ãƒ¼ãƒ«å·¥æˆ¿	http://beerkobo.web.fc2.com/asagayaindex.html	beer.png	50,59	-21,-64
+35.70762	139.65135	é«˜å††å¯ºéº¦é…’å·¥æˆ¿	http://beerkobo.web.fc2.com/	beer.png	50,59	-21,-64
+35.60937	139.69591	BrewPUB PANGAEA	http://pangaea-senzoku.seesaa.net/	beer.png	50,59	-21,-64
+35.65046	139.70502	SVB TOKYO	http://www.springvalleybrewery.jp/tokyo/	beer.png	50,59	-21,-64
+35.68507	139.70311	Watering Hole	http://wateringhole.jp/	beer.png	50,59	-21,-64
+35.67162	139.77051	åœ°ãƒ“ãƒ¼ãƒ«å…«è›®éŠ€åº§åº—	http://www.hachiban.net/contents/tenpo/ginza/	beer.png	50,59	-21,-64
+35.68691	139.77756	åœ°ãƒ“ãƒ¼ãƒ«å…«è›®æ—¥æœ¬æ©‹åº—	http://www.hachiban.net/contents/tenpo/nihonbashi/	beer.png	50,59	-21,-64
+35.4453	139.63248	BAY BREWING YOKOHAMA	http://baybrewing.jp/	beer.png	50,59	-21,-64
+35.61988	139.56297	ãƒ–ãƒ«ãƒ¼ãƒ‘ãƒ–ãƒ»ãƒ ãƒ¼ãƒ³ãƒ©ã‚¤ãƒˆ	http://www.craftbeer-moonlight.jp/	beer.png	50,59	-21,-64
+35.66055	138.57089	ã‚¢ã‚¦ãƒˆã‚µã‚¤ãƒ€ãƒ¼ãƒ–ãƒ«ãƒ¼ã‚¤ãƒ³ã‚°ï¼šHops And Herbs	http://outsiderbrewing.jp/hopnherbs/top.htm	beer.png	50,59	-21,-64
