@@ -7,4 +7,9 @@ window.onload = function () {
     var lonLat = new OpenLayers.LonLat(139.622549, 35.468217)
         .transform(new OpenLayers.Projection("EPSG:4326"), new OpenLayers.Projection("EPSG:900913"));
     map.setCenter(lonLat, 15);
+    var pois = new OpenLayers.Layer.Text("My Points",
+    {
+        location: "markers.txt"
+    });
+    map.addLayer(pois);
 }
