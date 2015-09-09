@@ -1,5 +1,5 @@
 lon	title	description	icon	iconSize	iconOffset
-139.65079	麦雑穀工房マイクロブルワリー	<a target='blank' href='http://www.craft-beer.net/zkm.html'>http://www.craft-beer.net/zkm.html</a>	beer.png	50,59	-21,-64
+139.65079	麦雑穀工房マイクロブルワリー	"<a target='blank' href='http://www.craft-beer.net/zkm.html'>http://www.craft-beer.net/zkm.html</a>"	beer.png	50,59	-21,-64
 139.72211	Beer＋＋：十条すいけんブルワリー	<a target='blank' href='http://plusplus.suiken.beer/'>http://plusplus.suiken.beer/</a>	beer.png	50,59	-21,-64
 139.70502	スプリングバレーブルワリー東京	<a target='blank' href='http://www.springvalleybrewery.jp/tokyo/'>http://www.springvalleybrewery.jp/tokyo/</a>	beer.png	50,59	-21,-64
 139.81355	Miyata Beer	<a target='blank' href='http://miyatabeer.com/'>http://miyatabeer.com/</a>	beer.png	50,59	-21,-64
