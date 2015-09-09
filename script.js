@@ -4,9 +4,9 @@ window.onload = function () {
     var mapnik = new OpenLayers.Layer.OSM();
     map.addLayer(mapnik);
     //地図の中心座標(緯度経度)を設定する
-    var lonLat = new OpenLayers.LonLat(139.622549, 35.468217)
+    var lonLat = new OpenLayers.LonLat(139.70311, 35.68507)
         .transform(new OpenLayers.Projection("EPSG:4326"), new OpenLayers.Projection("EPSG:900913"));
-    map.setCenter(lonLat, 7);
+    map.setCenter(lonLat, 10);
     var pois = new OpenLayers.Layer.Text("My Points",
     {
         location: "markers.txt"
