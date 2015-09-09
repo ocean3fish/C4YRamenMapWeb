@@ -1,18 +1,18 @@
-lon	title	description	icon	iconSize	iconOffset
-139.65079	麦雑穀工房マイクロブルワリー	"<a target="blank" href="http://www.craft-beer.net/zkm.html">http://www.craft-beer.net/zkm.html</a>	beer.png	50,59	-21,-64
-139.72211	Beer＋＋：十条すいけんブルワリー	<a target="blank" href="http://plusplus.suiken.beer/">http://plusplus.suiken.beer/</a>	beer.png	50,59	-21,-64
-139.70502	スプリングバレーブルワリー東京	<a target="blank" href="http://www.springvalleybrewery.jp/tokyo/">http://www.springvalleybrewery.jp/tokyo/</a>	beer.png	50,59	-21,-64
-139.81355	Miyata Beer	<a target="blank" href="http://miyatabeer.com/">http://miyatabeer.com/</a>	beer.png	50,59	-21,-64
-139.74747	T.Y. HARBOR BREWERY	<a target="blank" href="https://www.tysons.jp/">https://www.tysons.jp/</a>	beer.png	50,59	-21,-64
-139.42313	ビールファクトリーカミカゼ	<a target="blank" href="http://www.mumonan.jp/kamikaze/">http://www.mumonan.jp/kamikaze/</a>	beer.png	50,59	-21,-64
-139.33296	多摩の恵：福生のビール小屋	<a target="blank" href="http://www.tamajiman.co.jp/koya.html">http://www.tamajiman.co.jp/koya.html</a>	beer.png	50,59	-21,-64
-139.63562	阿佐谷ビール工房	<a target="blank" href="http://beerkobo.web.fc2.com/asagayaindex.html">http://beerkobo.web.fc2.com/asagayaindex.html</a>	beer.png	50,59	-21,-64
-139.65135	高円寺麦酒工房	<a target="blank" href="http://beerkobo.web.fc2.com/">http://beerkobo.web.fc2.com/</a>	beer.png	50,59	-21,-64
-139.69591	BrewPUB PANGAEA	<a target="blank" href="http://pangaea-senzoku.seesaa.net/">http://pangaea-senzoku.seesaa.net/</a>	beer.png	50,59	-21,-64
-139.70502	SVB TOKYO	<a target="blank" href="http://www.springvalleybrewery.jp/tokyo/">http://www.springvalleybrewery.jp/tokyo/</a>	beer.png	50,59	-21,-64
-139.70311	Watering Hole	<a target="blank" href="http://wateringhole.jp/">http://wateringhole.jp/</a>	beer.png	50,59	-21,-64
-139.77051	地ビール八蛮銀座店	<a target="blank" href="http://www.hachiban.net/contents/tenpo/ginza/">http://www.hachiban.net/contents/tenpo/ginza/</a>	beer.png	50,59	-21,-64
-139.77756	地ビール八蛮日本橋店	<a target="blank" href="http://www.hachiban.net/contents/tenpo/nihonbashi/">http://www.hachiban.net/contents/tenpo/nihonbashi/</a>	beer.png	50,59	-21,-64
-139.63248	BAY BREWING YOKOHAMA	<a target="blank" href="http://baybrewing.jp/">http://baybrewing.jp/</a>	beer.png	50,59	-21,-64
-139.56297	ブルーパブ・ムーンライト	<a target="blank" href="http://www.craftbeer-moonlight.jp/">http://www.craftbeer-moonlight.jp/</a>	beer.png	50,59	-21,-64
-138.57089	アウトサイダーブルーイング：Hops And Herbs	<a target="blank" href="http://outsiderbrewing.jp/hopnherbs/top.htm">http://outsiderbrewing.jp/hopnherbs/top.htm</a>	beer.png	50,59	-21,-64
+lat	lon	title	description	icon	iconSize	iconOffset
+35.85718	139.65079	麦雑穀工房マイクロブルワリー	"<a target="blank" href="http://www.craft-beer.net/zkm.html">http://www.craft-beer.net/zkm.html</a>	beer.png	50,59	-21,-64
+35.75912	139.72211	Beer＋＋：十条すいけんブルワリー	<a target="blank" href="http://plusplus.suiken.beer/">http://plusplus.suiken.beer/</a>	beer.png	50,59	-21,-64
+35.65046	139.70502	スプリングバレーブルワリー東京	<a target="blank" href="http://www.springvalleybrewery.jp/tokyo/">http://www.springvalleybrewery.jp/tokyo/</a>	beer.png	50,59	-21,-64
+35.70501	139.81355	Miyata Beer	<a target="blank" href="http://miyatabeer.com/">http://miyatabeer.com/</a>	beer.png	50,59	-21,-64
+35.62278	139.74747	T.Y. HARBOR BREWERY	<a target="blank" href="https://www.tysons.jp/">https://www.tysons.jp/</a>	beer.png	50,59	-21,-64
+35.6941	139.42313	ビールファクトリーカミカゼ	<a target="blank" href="http://www.mumonan.jp/kamikaze/">http://www.mumonan.jp/kamikaze/</a>	beer.png	50,59	-21,-64
+35.71861	139.33296	多摩の恵：福生のビール小屋	<a target="blank" href="http://www.tamajiman.co.jp/koya.html">http://www.tamajiman.co.jp/koya.html</a>	beer.png	50,59	-21,-64
+35.70848	139.63562	阿佐谷ビール工房	<a target="blank" href="http://beerkobo.web.fc2.com/asagayaindex.html">http://beerkobo.web.fc2.com/asagayaindex.html</a>	beer.png	50,59	-21,-64
+35.70762	139.65135	高円寺麦酒工房	<a target="blank" href="http://beerkobo.web.fc2.com/">http://beerkobo.web.fc2.com/</a>	beer.png	50,59	-21,-64
+35.60937	139.69591	BrewPUB PANGAEA	<a target="blank" href="http://pangaea-senzoku.seesaa.net/">http://pangaea-senzoku.seesaa.net/</a>	beer.png	50,59	-21,-64
+35.65046	139.70502	SVB TOKYO	<a target="blank" href="http://www.springvalleybrewery.jp/tokyo/">http://www.springvalleybrewery.jp/tokyo/</a>	beer.png	50,59	-21,-64
+35.68507	139.70311	Watering Hole	<a target="blank" href="http://wateringhole.jp/">http://wateringhole.jp/</a>	beer.png	50,59	-21,-64
+35.67162	139.77051	地ビール八蛮銀座店	<a target="blank" href="http://www.hachiban.net/contents/tenpo/ginza/">http://www.hachiban.net/contents/tenpo/ginza/</a>	beer.png	50,59	-21,-64
+35.68691	139.77756	地ビール八蛮日本橋店	<a target="blank" href="http://www.hachiban.net/contents/tenpo/nihonbashi/">http://www.hachiban.net/contents/tenpo/nihonbashi/</a>	beer.png	50,59	-21,-64
+35.4453	139.63248	BAY BREWING YOKOHAMA	<a target="blank" href="http://baybrewing.jp/">http://baybrewing.jp/</a>	beer.png	50,59	-21,-64
+35.61988	139.56297	ブルーパブ・ムーンライト	<a target="blank" href="http://www.craftbeer-moonlight.jp/">http://www.craftbeer-moonlight.jp/</a>	beer.png	50,59	-21,-64
+35.66055	138.57089	アウトサイダーブルーイング：Hops And Herbs	<a target="blank" href="http://outsiderbrewing.jp/hopnherbs/top.htm">http://outsiderbrewing.jp/hopnherbs/top.htm</a>	beer.png	50,59	-21,-64
